@@ -131,6 +131,7 @@ function deepEqual(firstObject, secondObject) {
     return false;
 }
 
+
 module.exports = {
     isInteger,
     even,
